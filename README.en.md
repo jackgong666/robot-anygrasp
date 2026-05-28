@@ -1,7 +1,11 @@
 # JAKA-robot-grasping-V2
 
+## Project Demo
+
+![Demo](anygrasp.gif)
+
 #### Description
-{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
+JAKA robot grasping system using deep learning for object detection and grasp planning.
 
 #### Software Architecture
 Software architecture description
@@ -17,6 +21,10 @@ Software architecture description
 1.  xxxx
 2.  xxxx
 3.  xxxx
+
+#### Contributors
+
+- Xiaofeng Du
 
 #### Contribution
 
