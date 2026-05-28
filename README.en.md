@@ -24,6 +24,7 @@ Software architecture description
 
 #### Contributors
 
+- Jack Gong
 - Xiaofeng Du
 
 #### Contribution
